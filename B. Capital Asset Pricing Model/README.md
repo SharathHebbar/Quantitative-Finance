@@ -23,10 +23,8 @@ $$
 
 where  
 
-$$
-\text{Cov}(R_i, R_m) = \text{covariance between asset $i$ and market returns} \\
-\text{Var}(R_m) = \text{variance of market returns}\\
-$$
+- $\text{Cov}(R_i, R_m)$ = covariance between asset $i$ and market returns
+- $\text{Var}(R_m)$ = variance of market returns
 
 Basically
 
