@@ -1,6 +1,7 @@
 # Capital Asset Pricing Model (CAPM)
 ---
-**CAPM:**  
+**CAPM:** 
+
 $$
 E(R_i) = R_f + \beta_i \big( E(R_m) - R_f \big)
 $$  
