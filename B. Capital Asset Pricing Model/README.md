@@ -8,12 +8,10 @@ $$
 
 where  
 
-$$
-E(R_i) = \text{expected return of asset $i$} \\
-R_f = \text{risk-free rate} \\
-\beta_i = \text{beta of asset $i$ (systematic risk)} \\
-E(R_m) = \text{expected return of the market portfolio}
-$$  
+- $E(R_i)$ = expected return of asset $i$  
+- $R_f$ = risk-free rate  
+- $\beta_i$ = beta of asset $i$ (systematic risk)  
+- $E(R_m)$ = expected return of the market portfolio  
 
 ---
 
