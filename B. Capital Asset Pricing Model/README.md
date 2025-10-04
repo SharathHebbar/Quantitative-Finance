@@ -31,6 +31,7 @@ $$
 $$
 
 Basically
+
 $$
 \text{Var}(R_m) = \text{Cov}(R_m, R_m)
 $$
